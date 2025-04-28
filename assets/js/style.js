@@ -2,7 +2,7 @@
 // header title
 
 
-const texts = ["Frond end Designer", "Wordpress Developer"];
+const texts = ["Front end Designer", "|", "Wordpress Developer"];
 let count = 0;
 let index = 0;
 let currentText = '';
