@@ -1,8 +1,8 @@
 
 // header title
 
-<script>
-const texts = ["Welcome Students!", "Learn JavaScript!", "Build Awesome Projects!"];
+
+const texts = ["Frond end Designer", "Wordpress Developer"];
 let count = 0;
 let index = 0;
 let currentText = '';
@@ -27,7 +27,6 @@ function type() {
 }
 
 type();
-</script>
 
 // smooth scroll
 $(document).ready(function(){
